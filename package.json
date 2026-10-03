@@ -1,0 +1,30 @@
+{
+  "name": "add_3d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "viewport3d.js",
+  "scripts": {
+    "build": "node scripts/build-web.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adityat5/ADD_3d.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Adityat5/ADD_3d/issues"
+  },
+  "homepage": "https://github.com/Adityat5/ADD_3d#readme",
+  "dependencies": {
+    "@capacitor/android": "^7.6.9",
+    "@capacitor/core": "^7.6.9"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.6.9",
+    "three": "^0.128.0"
+  }
+}
